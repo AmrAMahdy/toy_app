@@ -2,13 +2,13 @@
  Place all the styles related to the matching controller here.
  They will automatically be included in application.css.
  */
+
 h1 {
   color: #1111ff;
 }
 
-td{
+td {
   border-left: 1px solid black;
   border-top: 1px solid black;
   padding: 5px;
-  
 }
